@@ -21,12 +21,12 @@ namespace Completed
 
 
         private Text levelText;									
-		private GameObject levelImage;							
+		public GameObject levelImage;							
 		private BoardManager boardScript;						
 		private int level;									
 		private List<Enemy> enemies;							
 		private bool enemiesMoving;								
-		private bool doingSetup = true;							
+		public bool doingSetup = true;							
 		
 		
 		
@@ -115,7 +115,7 @@ namespace Completed
 		}
 		
 		
-		void HideLevelImage()
+		public void HideLevelImage()
 		{
 			levelImage.SetActive(false);
 			

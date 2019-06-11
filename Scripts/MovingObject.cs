@@ -64,7 +64,7 @@ namespace Completed
 		}
 		
 		
-		protected virtual void AttemptMove <T> (int xDir, int yDir)
+		public virtual void AttemptMove <T> (int xDir, int yDir)
 			where T : Component
 		{
 			RaycastHit2D hit;
@@ -88,8 +88,6 @@ namespace Completed
 		protected abstract void OnCantMove <T> (T component)
 			where T : Component;
 
-       /*protected abstract void OnCant<T>(T component)
-            where T : Component;*/
-                  
+       
     }
 }

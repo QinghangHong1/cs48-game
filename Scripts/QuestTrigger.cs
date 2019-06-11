@@ -33,32 +33,6 @@ public class QuestTrigger : MonoBehaviour
     { 
         if(other.gameObject.name == "PlayerAC")
         {
-            /*if(!theQM.questCompleted[questNumber])
-            {
-                if (startQuest && !theQM.quests[questNumber].gameObject.activeSelf)
-                {
-                    theQM.quests[questNumber].gameObject.SetActive(true);
-                    theQM.quests[questNumber].StartQuest();
-                }
-                if(endQuest && theQM.quests[questNumber].gameObject.activeSelf && theQM.quests[questNumber].isComplete==true)
-                {
-                    //theQM.quests[questNumber].gameObject.SetActive(false);
-                    theQM.quests[questNumber].EndQuest();
-                    //GC.money += 50;
-
-                    //gameObject.SetActive(false);
-
-                    //if(questNumber == 2)
-                    //{
-                    //    return;
-                    //}
-                    //theQM.quests[++questNumber].gameObject.SetActive(true);
-
-                    //theQM.quests[questNumber].StartQuest();
-                    
-                    
-                }
-            }*/
             if(GC.QuestCount == 0 && GC.inQuest == false)
             {
                 theQM.quests[0].gameObject.SetActive(true);

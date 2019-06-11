@@ -17,7 +17,7 @@ namespace Completed
         private int gold_amount = 2;
         private Animator animator;
         public int enemyLeft;
-        private GameControl playerAttributes;
+        public GameControl playerAttributes;
 
         [SerializeField]
         private HealthStat health;
@@ -104,7 +104,7 @@ namespace Completed
             }
 		}
 		
-		protected override void AttemptMove <T> (int xDir, int yDir)
+		public override void AttemptMove <T> (int xDir, int yDir)
 		{
             //food--;
             foodText.text = "HP: " + playerAttributes.HP;

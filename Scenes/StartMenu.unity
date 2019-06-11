@@ -1088,10 +1088,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   newGameButton: {fileID: 805076952}
-  loadButton: {fileID: 0}
   exitButton: {fileID: 888888865}
-  newGameSceneName: Forest
-  loadGameMenu: {fileID: 888888863}
+  newGameSceneName: 
+  quitGame: 0
+  loadGameMenu: {fileID: 0}
 --- !u!1 &2096764489
 GameObject:
   m_ObjectHideFlags: 0

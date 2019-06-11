@@ -7,9 +7,9 @@ using UnityEngine.UI;
 public class MainMenu : MonoBehaviour
 {
     public Button newGameButton;
-    public Button loadButton;
     public Button exitButton;
     public string newGameSceneName;
+    public bool quitGame = false;
 
     public GameObject loadGameMenu;
 
@@ -30,5 +30,6 @@ public class MainMenu : MonoBehaviour
     {
         Debug.Log("trying to exit game. Doesn't work in editor");
         Application.Quit();
+        quitGame = true;
     }
 }

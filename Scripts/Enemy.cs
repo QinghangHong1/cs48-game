@@ -9,11 +9,12 @@ namespace Completed
         public int playerDamage;
 		private Animator animator;							
 		private Transform target;							
-		private bool skipMove;
+		public bool skipMove;
         public int hp;
         private Text goldText;
-        private GameControl playerAttributes;
+        public GameControl playerAttributes;
 
+       
         protected override void Start ()
 		{
             playerAttributes = FindObjectOfType<GameControl>();
@@ -32,7 +33,7 @@ namespace Completed
 		}
 		
 		
-		protected override void AttemptMove <T> (int xDir, int yDir)
+		public override void AttemptMove <T> (int xDir, int yDir)
 		{
 			if(skipMove)
 			{
