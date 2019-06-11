@@ -18,6 +18,8 @@
 
 # Note
 
+All scripts can be found in `Scripts` folder
+
 If you are interested in our server and website:   
 
 Server source code is [here](https://github.com/QinghangHong1/crystalis)
