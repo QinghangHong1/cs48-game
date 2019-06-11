@@ -18,6 +18,16 @@
 *.skp filter=lfs diff=lfs merge=lfs -text
 *.stl filter=lfs diff=lfs merge=lfs -text
 *.ztl filter=lfs diff=lfs merge=lfs -text
+
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicsMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
 # Audio
 *.aif filter=lfs diff=lfs merge=lfs -text
 *.aiff filter=lfs diff=lfs merge=lfs -text
@@ -46,9 +56,3 @@
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.tiff filter=lfs diff=lfs merge=lfs -text
 
-# Collapse Unity-generated files on GitHub
-*.asset linguist-generated
-*.mat linguist-generated
-*.meta linguist-generated
-*.prefab linguist-generated
-*.unity linguist-generated
