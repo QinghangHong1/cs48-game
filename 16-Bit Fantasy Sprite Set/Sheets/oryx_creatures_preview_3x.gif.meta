@@ -1,0 +1,4257 @@
+fileFormatVersion: 2
+guid: cbeaeee5c87930e4fab7483ce22564ef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oryx_creatures_preview_3x_0
+    21300002: oryx_creatures_preview_3x_1
+    21300004: oryx_creatures_preview_3x_2
+    21300006: oryx_creatures_preview_3x_3
+    21300008: oryx_creatures_preview_3x_4
+    21300010: oryx_creatures_preview_3x_5
+    21300012: oryx_creatures_preview_3x_6
+    21300014: oryx_creatures_preview_3x_7
+    21300016: oryx_creatures_preview_3x_8
+    21300018: oryx_creatures_preview_3x_9
+    21300020: oryx_creatures_preview_3x_10
+    21300022: oryx_creatures_preview_3x_11
+    21300024: oryx_creatures_preview_3x_12
+    21300026: oryx_creatures_preview_3x_13
+    21300028: oryx_creatures_preview_3x_14
+    21300030: oryx_creatures_preview_3x_15
+    21300032: oryx_creatures_preview_3x_16
+    21300034: oryx_creatures_preview_3x_17
+    21300036: oryx_creatures_preview_3x_18
+    21300038: oryx_creatures_preview_3x_19
+    21300040: oryx_creatures_preview_3x_20
+    21300042: oryx_creatures_preview_3x_21
+    21300044: oryx_creatures_preview_3x_22
+    21300046: oryx_creatures_preview_3x_23
+    21300048: oryx_creatures_preview_3x_24
+    21300050: oryx_creatures_preview_3x_25
+    21300052: oryx_creatures_preview_3x_26
+    21300054: oryx_creatures_preview_3x_27
+    21300056: oryx_creatures_preview_3x_28
+    21300058: oryx_creatures_preview_3x_29
+    21300060: oryx_creatures_preview_3x_30
+    21300062: oryx_creatures_preview_3x_31
+    21300064: oryx_creatures_preview_3x_32
+    21300066: oryx_creatures_preview_3x_33
+    21300068: oryx_creatures_preview_3x_34
+    21300070: oryx_creatures_preview_3x_35
+    21300072: oryx_creatures_preview_3x_36
+    21300074: oryx_creatures_preview_3x_37
+    21300076: oryx_creatures_preview_3x_38
+    21300078: oryx_creatures_preview_3x_39
+    21300080: oryx_creatures_preview_3x_40
+    21300082: oryx_creatures_preview_3x_41
+    21300084: oryx_creatures_preview_3x_42
+    21300086: oryx_creatures_preview_3x_43
+    21300088: oryx_creatures_preview_3x_44
+    21300090: oryx_creatures_preview_3x_45
+    21300092: oryx_creatures_preview_3x_46
+    21300094: oryx_creatures_preview_3x_47
+    21300096: oryx_creatures_preview_3x_48
+    21300098: oryx_creatures_preview_3x_49
+    21300100: oryx_creatures_preview_3x_50
+    21300102: oryx_creatures_preview_3x_51
+    21300104: oryx_creatures_preview_3x_52
+    21300106: oryx_creatures_preview_3x_53
+    21300108: oryx_creatures_preview_3x_54
+    21300110: oryx_creatures_preview_3x_55
+    21300112: oryx_creatures_preview_3x_56
+    21300114: oryx_creatures_preview_3x_57
+    21300116: oryx_creatures_preview_3x_58
+    21300118: oryx_creatures_preview_3x_59
+    21300120: oryx_creatures_preview_3x_60
+    21300122: oryx_creatures_preview_3x_61
+    21300124: oryx_creatures_preview_3x_62
+    21300126: oryx_creatures_preview_3x_63
+    21300128: oryx_creatures_preview_3x_64
+    21300130: oryx_creatures_preview_3x_65
+    21300132: oryx_creatures_preview_3x_66
+    21300134: oryx_creatures_preview_3x_67
+    21300136: oryx_creatures_preview_3x_68
+    21300138: oryx_creatures_preview_3x_69
+    21300140: oryx_creatures_preview_3x_70
+    21300142: oryx_creatures_preview_3x_71
+    21300144: oryx_creatures_preview_3x_72
+    21300146: oryx_creatures_preview_3x_73
+    21300148: oryx_creatures_preview_3x_74
+    21300150: oryx_creatures_preview_3x_75
+    21300152: oryx_creatures_preview_3x_76
+    21300154: oryx_creatures_preview_3x_77
+    21300156: oryx_creatures_preview_3x_78
+    21300158: oryx_creatures_preview_3x_79
+    21300160: oryx_creatures_preview_3x_80
+    21300162: oryx_creatures_preview_3x_81
+    21300164: oryx_creatures_preview_3x_82
+    21300166: oryx_creatures_preview_3x_83
+    21300168: oryx_creatures_preview_3x_84
+    21300170: oryx_creatures_preview_3x_85
+    21300172: oryx_creatures_preview_3x_86
+    21300174: oryx_creatures_preview_3x_87
+    21300176: oryx_creatures_preview_3x_88
+    21300178: oryx_creatures_preview_3x_89
+    21300180: oryx_creatures_preview_3x_90
+    21300182: oryx_creatures_preview_3x_91
+    21300184: oryx_creatures_preview_3x_92
+    21300186: oryx_creatures_preview_3x_93
+    21300188: oryx_creatures_preview_3x_94
+    21300190: oryx_creatures_preview_3x_95
+    21300192: oryx_creatures_preview_3x_96
+    21300194: oryx_creatures_preview_3x_97
+    21300196: oryx_creatures_preview_3x_98
+    21300198: oryx_creatures_preview_3x_99
+    21300200: oryx_creatures_preview_3x_100
+    21300202: oryx_creatures_preview_3x_101
+    21300204: oryx_creatures_preview_3x_102
+    21300206: oryx_creatures_preview_3x_103
+    21300208: oryx_creatures_preview_3x_104
+    21300210: oryx_creatures_preview_3x_105
+    21300212: oryx_creatures_preview_3x_106
+    21300214: oryx_creatures_preview_3x_107
+    21300216: oryx_creatures_preview_3x_108
+    21300218: oryx_creatures_preview_3x_109
+    21300220: oryx_creatures_preview_3x_110
+    21300222: oryx_creatures_preview_3x_111
+    21300224: oryx_creatures_preview_3x_112
+    21300226: oryx_creatures_preview_3x_113
+    21300228: oryx_creatures_preview_3x_114
+    21300230: oryx_creatures_preview_3x_115
+    21300232: oryx_creatures_preview_3x_116
+    21300234: oryx_creatures_preview_3x_117
+    21300236: oryx_creatures_preview_3x_118
+    21300238: oryx_creatures_preview_3x_119
+    21300240: oryx_creatures_preview_3x_120
+    21300242: oryx_creatures_preview_3x_121
+    21300244: oryx_creatures_preview_3x_122
+    21300246: oryx_creatures_preview_3x_123
+    21300248: oryx_creatures_preview_3x_124
+    21300250: oryx_creatures_preview_3x_125
+    21300252: oryx_creatures_preview_3x_126
+    21300254: oryx_creatures_preview_3x_127
+    21300256: oryx_creatures_preview_3x_128
+    21300258: oryx_creatures_preview_3x_129
+    21300260: oryx_creatures_preview_3x_130
+    21300262: oryx_creatures_preview_3x_131
+    21300264: oryx_creatures_preview_3x_132
+    21300266: oryx_creatures_preview_3x_133
+    21300268: oryx_creatures_preview_3x_134
+    21300270: oryx_creatures_preview_3x_135
+    21300272: oryx_creatures_preview_3x_136
+    21300274: oryx_creatures_preview_3x_137
+    21300276: oryx_creatures_preview_3x_138
+    21300278: oryx_creatures_preview_3x_139
+    21300280: oryx_creatures_preview_3x_140
+    21300282: oryx_creatures_preview_3x_141
+    21300284: oryx_creatures_preview_3x_142
+    21300286: oryx_creatures_preview_3x_143
+    21300288: oryx_creatures_preview_3x_144
+    21300290: oryx_creatures_preview_3x_145
+    21300292: oryx_creatures_preview_3x_146
+    21300294: oryx_creatures_preview_3x_147
+    21300296: oryx_creatures_preview_3x_148
+    21300298: oryx_creatures_preview_3x_149
+    21300300: oryx_creatures_preview_3x_150
+    21300302: oryx_creatures_preview_3x_151
+    21300304: oryx_creatures_preview_3x_152
+    21300306: oryx_creatures_preview_3x_153
+    21300308: oryx_creatures_preview_3x_154
+    21300310: oryx_creatures_preview_3x_155
+    21300312: oryx_creatures_preview_3x_156
+    21300314: oryx_creatures_preview_3x_157
+    21300316: oryx_creatures_preview_3x_158
+    21300318: oryx_creatures_preview_3x_159
+    21300320: oryx_creatures_preview_3x_160
+    21300322: oryx_creatures_preview_3x_161
+    21300324: oryx_creatures_preview_3x_162
+    21300326: oryx_creatures_preview_3x_163
+    21300328: oryx_creatures_preview_3x_164
+    21300330: oryx_creatures_preview_3x_165
+    21300332: oryx_creatures_preview_3x_166
+    21300334: oryx_creatures_preview_3x_167
+    21300336: oryx_creatures_preview_3x_168
+    21300338: oryx_creatures_preview_3x_169
+    21300340: oryx_creatures_preview_3x_170
+    21300342: oryx_creatures_preview_3x_171
+    21300344: oryx_creatures_preview_3x_172
+    21300346: oryx_creatures_preview_3x_173
+    21300348: oryx_creatures_preview_3x_174
+    21300350: oryx_creatures_preview_3x_175
+    21300352: oryx_creatures_preview_3x_176
+    21300354: oryx_creatures_preview_3x_177
+    21300356: oryx_creatures_preview_3x_178
+    21300358: oryx_creatures_preview_3x_179
+    21300360: oryx_creatures_preview_3x_180
+    21300362: oryx_creatures_preview_3x_181
+    21300364: oryx_creatures_preview_3x_182
+    21300366: oryx_creatures_preview_3x_183
+    21300368: oryx_creatures_preview_3x_184
+    21300370: oryx_creatures_preview_3x_185
+    21300372: oryx_creatures_preview_3x_186
+    21300374: oryx_creatures_preview_3x_187
+    21300376: oryx_creatures_preview_3x_188
+    21300378: oryx_creatures_preview_3x_189
+    21300380: oryx_creatures_preview_3x_190
+    21300382: oryx_creatures_preview_3x_191
+    21300384: oryx_creatures_preview_3x_192
+    21300386: oryx_creatures_preview_3x_193
+    21300388: oryx_creatures_preview_3x_194
+    21300390: oryx_creatures_preview_3x_195
+    21300392: oryx_creatures_preview_3x_196
+    21300394: oryx_creatures_preview_3x_197
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1deb8df1ccf194880fcad6b46b3f65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17071f85f7db55e4c9f4609e93ec9515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc01f303bfeeb945a91664f53aac64c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46744314d3408c345b21733b2e8e3a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce093136fcef567409d41238a890ac35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52aa07e1885d88d41afe0307c8763cd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_6
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f5eed92786ca439e97b127727fce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738ced07810ec344fad76f04a009403e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_8
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2bcb63ac5f67644a19deb1204c274f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_9
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f8eb585dab0cc45a6a65467dd09c81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_10
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b381f3382323f074e829f3a35e1b9e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_11
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0634d2088d51409789af2138be668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_12
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5399e2e1abd8414db120aed7002f34b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557c37642283a5245b9e1f4dde9da0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_14
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24949c7b5682f34684adda27b4bc349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_15
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c4a854daed80c49b76144843ceaa46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_16
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a9896a9aaff774dae8a502b2ee0b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_17
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 757.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58c00436a796644ebef35a64805c626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dcdbf65fb6edd4d998dde6bbd472a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da59da3014d1b54495ee6944a459b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f83e18988c13d14ba9f283aa02dc28d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c0098c8eae2d4895c9c7bb8fdef6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab19c3312b62254e80cf472f4516104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_23
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a9c0568f7018545ab774b1374221ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86046e0ca2734e74eadded087c9b802b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_25
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18fdc8c1a43641468fea766a70f67cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_26
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f98db424dfe974d99ee5d3d51a111c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_27
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a378d46250f484db4ca34401c6042d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_28
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1c778d519516d4583db635e4424b41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_29
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d37a1dd2b6e2f40a15fcdf940ab706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_30
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee77aa901a73274eb9461285b767856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_31
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9805d47423b854c948495333b1ff42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_32
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f15b631eddc52c4db362fb807189b24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_33
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fab53ba9d30e141a89fc9c8e027134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_34
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc39bef5b766ad479ca1245a25f1d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_35
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 682.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f630da3c0abfab468b839fc6da70a17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d8f8c38b63df4c8c280bc2ac1ba81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61da04bcf69fcfc45a57e5d93ea14390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a574284cb95914091273238f9d85bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_39
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b07f65eeeaa1f4eb4afb84344c215b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d06504e6279f34409e3c303beaed361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_41
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b230bb9509cc74da76902eefa9b219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_42
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f803b6aa913e146a2b33091ceb2069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_43
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e1f19f7e8d91f439b8d898d80b583f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_44
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7ccc2a704b0e4b88a572e6db648cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_45
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc00627415272f48a854518ab9f5739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_46
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f659a14bf0dc39f43a00e72507f0eb02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_47
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06978e6fe9fb03741b8f1671c0040eb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_48
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf9234fc8e66db40ad51a478f9f0cda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_49
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b934684ec9c2a489d6399b57fa2012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_50
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3bd1311b1b1dd4b91771ca7089c07c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_51
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beb104795f500b48a459c5984312995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_52
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009ce268f084e3469952ad038628d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_53
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 607.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711b3a48656ebb14dbb3c0f278d41208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d9430c3f5f9f42acdbf3257056f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_55
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80194f38d415ab1489ecd4ef212221d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_56
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c616df5c4c5416e49a73a7423ad622b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7596cd56b65af438fc823b33df86a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_58
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14b368f4b58149458ca5d3dab2c008b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5514b6bae62d31b499bcf2a8c7917153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_60
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82b379228d715746a1cadc950db4856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_61
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df96d136dbcbc644f9dcac0764b3213a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c248ffb9ce4ded45a519599dd7bc2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_63
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf5e121bb893c4d82ec4f8ecf4d869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_64
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3027268761a396e46b82c9e444fbbf15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_65
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c87b22f1113f6429d295e9642e661e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_66
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c175cba8d30b4abc1dcdc0b98d3ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_67
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3722a1e574f20041b07541b86caac4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_68
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16361c55fc5ec9945b1148e4324a8a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_69
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcb741c23d8a8b4b9a468bd340a0e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_70
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b3ebde1fcb2a47816807c9e420884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_71
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 532.2727
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3500d63c4d0a9934b9f414100edd4736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4892c36893097ab4194480fab00a652c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_73
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210d0344623a734dadd403036ac6800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfa95090bcf9ee40a3a9434893e6b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_75
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d930c1d4c394c489945a86a1bc99f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3803bc78b1ac74398ea5b681446a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_77
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be9703d47c65149b7429561b5185c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_78
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe4aeb4c16e09449aaa38bfb0938291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_79
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9d61eb02969f7498a877b18848174d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_80
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5521973b5f98f344ae581e6ada68d9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_81
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e67fc7f79e9db4f9ab764a68a1f414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_82
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726c3478055ed6046a3a25cbf7b48e5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_83
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed737fdaa73d7054581f097fe809749b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_84
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bd19bdbbc404a439a888429d32a5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_85
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8da41481b693041a6692e2a2b61071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_86
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbeb10ccffe7db44801ac8b9bcb72a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_87
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db78edf0d0c51b547b5ee7b3d22859c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_88
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb4cf23e1d404546835801f268ff86c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_89
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 457.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959134851edd34f47a3e78fa0493a664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_90
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b9bd32cd16a3d48a331e6ceefbd1ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9512a0e1bfbd2764db47325747007a5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13a419b0b011c8459c14a24caf69d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_93
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ff020938a9044e83c8c4dbbbb4102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_94
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d682dad1b59f7747b77cff85a6cb139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_95
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa6724487cabb48a8f6c8d966ec56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_96
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ede5273b51e0428cd0f51708507b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_97
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1559f3c1c77064ca38bae70b6644c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_98
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e924471b7faa4f4db5fe1226135b03b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_99
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5208a48ef2ed3a04e849da0850f6a3e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_100
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e9c4a02d200b643adca654df17b5e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_101
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f191c7abe42451498543220dd76c99d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_102
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f4cd63a0fa2d4daa7e15539bb0b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_103
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85706bb447c9745a633a91c7bec429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_104
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244104cbcee9e54d819b5277727c272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_105
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1768f1dacbde54745aab8a8f828243a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_106
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8697d2c155b394db166194e28e7318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_107
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 382.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b1ccb69b3a1064d8ba06a62d8e08a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_108
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b370a23909b24da53f7a33997ba04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41df4a5320b474c499ef35b07cf94da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_110
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10372a8f0317e4c46bf3cc79588783d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d628ec67715ec4080315abc24c311a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_112
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9a4b2a4a60e434787a885a0777bce7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_113
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593b6120559de24a8ddd5f9b724794a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_114
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d16f6a03c9ca4042a091f5d76f0ad6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_115
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bdfc41a8a1fa43a5a2f1cdbb2180c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_116
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594d44af86308c549bd76eb01409f40a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_117
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e808b9e98f237d408860df070fa402b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_118
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc106d6ab48206458ff65db0960ebad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_119
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e269e3a5210f4648bb8ded8b65f4750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_120
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904e6c31b41ae74c97b4658e11776c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_121
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af212ff9b276dfa49b2056520b97ecca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_122
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6276cd1bd7cc8c54cbe1dacf068b3bcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_123
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eedbfa12ece9546b7ba4dc045b929e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_124
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec222bc0281c0446bc7509ab8da8449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_125
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 307.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cbb20f99644bd418becfd148566967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_126
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251e081365bc41f44b1e5f245d7c9078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_127
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04342381cd1fbc4ba0fdbe13a6b2b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_128
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6e58088e4130439d5f2a1029b1c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_129
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4cbcad2af975247a2a3f1b43cb291a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_130
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac318e10b99ef9489d23a7d0b3957c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_131
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6fa3378f28528448579fc1941edd14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_132
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d8a0d826cdbf4458641f765afa6d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_133
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da49d3c17bf81a4aa24a67c78a3d7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_134
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3be7dcd0a308e479142bee97f82e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_135
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc19cb98d0b4ea43909f129b34f48ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_136
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f018bf2dc9d20946b7fd8f88e38a019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_137
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0bb2f352e44e4f8369c93758aaa5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_138
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3383a0c65ba3c742a4e921d62c6be68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_139
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2125a6604b983b349bb7dc043882c938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_140
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6f927d133d7534e8b0271c7f0fc7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_141
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898de2a26adae3447b47de11dc2a8c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_142
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd1aa47274adb49a1a3cecb2e356a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_143
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 232.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd63c5cbaa7d58845870fb91b8d8be89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b4401a44380249bf0c18ebaa53fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_145
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe581ccaa4592174295a7823accd266c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_146
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051e55abefafe744989f45f951f3db47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_147
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad2733a826f4a445b14a91338d78d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_148
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf83cb99e754b4db8ea09cf23f1f64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_149
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e3a675538c2645927077e13c88bf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_150
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410ac7fa72966347ad3958b13b52256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_151
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9218e192d0aa4cb58315c9b268439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_152
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae7bf7f4ed5d8842839f2793be50f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_153
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d2f19c77d6ed48bfab0d5603aa19c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_154
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f801e5950c042a34ab0e22c612b8857c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_155
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e773486813ed03c4b8f3f3f062839bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_156
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5ba873b1cdb0d4282c729212d6a861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_157
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ba66fc6b39a84fa3616eec355152c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_158
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c597d499b30d64abe0310a98d65973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_159
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0de2b4798195246a58a45d80482d40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_160
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d366f9ef81a2449a5689a3ca882ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_161
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 157.27274
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a54aefd9c0645f4d8f259c279f1d76a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429cf4a030e41924caaeaed6d17a1ace
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_163
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2607a37fb39d0740a4856372c4941d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_164
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d4b923d1741e246974a2cacbbc2d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_165
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5893fe771cf86fa4ca94390d05e6ff09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_166
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9b02ce2f1dc1f4fbb777e31140735a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_167
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b6b81fa7dc4145bf0d8aa9c17338b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_168
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d83b89d2ea2e0479d465b0b8426d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_169
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7209319dffc9032488f91393c2ee65ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_170
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcb8c4f3dd070840afb2051334eea23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_171
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d703e67de20be44b7f995e6b88a553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_172
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9c2ab99dca5fe45bd4ad085dc3afae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_173
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7460fc16515a4e9dd37c005aef30b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_174
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b2fe0e2884e644adf7d0c39b82611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_175
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbff1c1f9c744a74fbaff1d4b1a9bad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_176
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98ab177bb2616f4986cd344653c7aae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_177
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2491cc351b357524e96ff0a106eaf16d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_178
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79544512effee904b8bcd56142cd3b81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_179
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 82.27273
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9038318554938c4990a4fd091518f91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_180
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e93e819aa58343a700ef8e1c3feb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_181
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef558592e80690b49978bd70cd2f6b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_182
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f08dab6cbb9249a26e0686256f6dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_183
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d8e7e8e90e2ff418d57919b18c9a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_184
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baca7775af9dec46be33255abc1feae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_185
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a36e404dccc32f469e3cb2c3044b0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_186
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267dd95996236144f96a6de4c574e3a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_187
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be05e29a9f7c9e41a05899f97440efd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_188
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a422bf286b9b14ba14d5994344247a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_189
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f53a2d82846a4baf499cf48ce7758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_190
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c15638aeb5abc64b867632ee5f4a81b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_191
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185cff77e3cf6a441bb3a8c5e4c53c9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_192
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676fd744b3700b840937f1b63b001f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_193
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a126b302de6b4b92d50463e3ef024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_194
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b936d0e3d01f4a8d2d4dc62136c24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_195
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c4bdbf9fce554f887f2948dabac74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_196
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5769c08bb9d6ade4cb36f7fe30c9b781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oryx_creatures_preview_3x_197
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 7.272728
+        width: 72.611115
+        height: 75.72727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8b19ead2d0fa459983c2cd3aa1d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cb4437c7f48045a3975b885c929526b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 16-bit fantasy sprite set
+  assetBundleVariant: 
