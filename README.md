@@ -16,6 +16,8 @@
  10. For screen resolution, we suggest to choose `1650*1050` and for the graphics quality, choose `Ultra`. Double click `Play!` on the bottom-right and the game will start.
 
 ps(not part of building instructions of the game):
+
 If you are interested in our server and website:     
 Server source code is [here](https://github.com/QinghangHong1/crystalis)
+
 Website source code is [here](https://github.com/QinghangHong1/game-website)
